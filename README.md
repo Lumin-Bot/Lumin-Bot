@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lumin-Bot
+- 👋 Hi, I’m @Lumin-Bot, Jacky Huang
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning about Data Structures.
 - 💞️ I’m looking to collaborate on ...
