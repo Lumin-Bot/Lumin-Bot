@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lumin-Bot, Jacky Huang
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning about Javascript.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Personal Email: huangjacky09@gmail.com
 
 <!---
